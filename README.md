@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ### Honors and Award :trophy:
 
 ¡Wooohooo! 💪 Soy uno de los apasionados jóvenes desarrolladores autodidactas que participó en las olimpiadas de programación organizadas por el INET y el Ministerio de Educación de la Republica Argentina 🏆🇦🇷. ¡Fue una experiencia increíble!. Obteniendo el reconocimiento y la admiración de los evaluadores de la competencia 🤝👏. ¡Fue una sensación indescriptible!
- 
+ :e-mail:
 <br></details>
 <!-- footer --!>
 <p align="center">
