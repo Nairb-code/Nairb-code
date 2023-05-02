@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 <br></details>
 <!-- footer --!>
 <p align="center">
-    <a id="GitHub" href="https://github.com/Nairb-code/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Brian Duran - GitHub" /></a>
+    <a id="GitHub" href="https://github.com/Nairb-code/">:round_pushpin: Brian Duran - GitHub</a>
     &nbsp;&nbsp;     
-    <a id="LinkedIn" href="https://www.linkedin.com/in/brian-duran/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="Brian Duran - LinkedIn" /></a> 
+    <a id="LinkedIn" href="https://www.linkedin.com/in/brian-duran/">:mailbox_with_mail: Brian Duran - LinkedIn</a> 
     &nbsp;&nbsp;
     <a id="Website" href="https://helloworld2018.netlify.app/">:trophy: Programming Olympics Project</a>
     &nbsp;&nbsp;
