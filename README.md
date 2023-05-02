@@ -64,8 +64,8 @@ Here are some ideas to get you started:
     &nbsp;&nbsp;     
     <a id="LinkedIn" href="https://www.linkedin.com/in/brian-duran/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="Brian Duran - LinkedIn" /></a> 
     &nbsp;&nbsp;
-    <a id="Website" href="https://helloworld2018.netlify.app/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="programming olympics project" /></a>
+    <a id="Website" href="https://helloworld2018.netlify.app/">:trophy: Programming Olympics Project</a>
     &nbsp;&nbsp;
-   <a id="Mail" href="mailto:brian.duran.509@outlook.com"> :e-mail:</a>
+   <a id="Mail" href="mailto:brian.duran.509@outlook.com">:e-mail: Brian Duran - Email</a>
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
