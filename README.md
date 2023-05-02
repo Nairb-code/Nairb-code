@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 ### Honors and Award :trophy:
 
 ¡Wooohooo! 💪 Soy uno de los apasionados jóvenes desarrolladores autodidactas que participó en las olimpiadas de programación organizadas por el INET y el Ministerio de Educación de la Republica Argentina 🏆🇦🇷. ¡Fue una experiencia increíble!. Obteniendo el reconocimiento y la admiración de los evaluadores de la competencia 🤝👏. ¡Fue una sensación indescriptible!
- :e-mail:
 <br></details>
 <!-- footer --!>
 <p align="center">
@@ -67,6 +66,6 @@ Here are some ideas to get you started:
     &nbsp;&nbsp;
     <a id="Website" href="https://helloworld2018.netlify.app/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="programming olympics project" /></a>
     &nbsp;&nbsp;
-   <a id="Mail" href="mailto:brian.duran.509@outlook.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Brian Duran - Mail"/></a>
+   <a id="Mail" href="mailto:brian.duran.509@outlook.com"> :e-mail:</a>
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
