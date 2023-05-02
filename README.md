@@ -45,36 +45,21 @@ Here are some ideas to get you started:
 ### Database Systems :bar_chart:
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
 
 ### Tools and Frameworks :hammer:
 
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/docker.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/apachespark.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/inkscape.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gimp.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobephotoshop.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; 
 
 ### Honors and Award :trophy:
 
-1. **Smart India Finalist 2020 - Software Edition**
-   - :round_pushpin:&nbsp;&nbsp;**All India Council for Technical Education (AICTE)**
-   - Shortlisted for Problem Statement: RK59 by Bureau of Police Research & Development. 
-2. **First Place - Daksh Smart Finance Hackathon (2020)**
-   - Won the First Place in a 36-hour Hackathon conducted by the **Shanmugha Arts, Science, Technology & Research Academy (SASTRA), Tamil Nadu**.
-3. **Fourth Place - St. Peter's Hackathon (2019)**
-   - Won the Fourth Place in a 12-hour Hackathon of over 100+ participants conducted by the **St. Peter's College of Engineering and Technology, Chennai.**
-4. **Third Place - SSN IEEE Hack & Tackle (2019)**
-   - Won the Third Place in a 24-hour Hackathon of over 300+ participants conducted by the IEEE Chapter of **SSN College of Engineering, Chennai**.
-5. **Founder and Lead - Active Specialized Support Group (ASSG)**
-   - It was started as an effort to combat a lack of technical diversity within our college. We also run weekly workshops for students from all departments across the college
+¡Wooohooo! 💪 Soy uno de los apasionados jóvenes desarrolladores autodidactas que participó en las olimpiadas de programación organizadas por el INET y el Ministerio de Educación de la Republica Argentina 🏆🇦🇷. ¡Fue una experiencia increíble!. Obteniendo el reconocimiento y la admiración de los evaluadores de la competencia 🤝👏. ¡Fue una sensación indescriptible!
  
 <br></details>
 <!-- footer --!>
-<p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
 <p align="center">
     <a id="GitHub" href="https://github.com/Nairb-code/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Brian Duran - GitHub" /></a>
     &nbsp;&nbsp;     
