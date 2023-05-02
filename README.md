@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Krishnakanth Alagiri (Him/He) 🌻
+## Brian Duran (Him/He) 😄
 - 🔭 I’m currently working on Accenture Argentina as AI Engineer Analyst (RPA Developer)
 - 🌱 I'm currently learning to become a Full Stack Developer by pursuing the Certified Tech Developer program offered by Mercado Libre and Globant.
 - 💬 Ask me about Full Stack Development and my experience in the Certified Tech Developer program. I'd be happy to share what I've learned so far and offer any insights I can!
-- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/brian-duran/))
+- 📫 **How to reach me**: [LinkedIn] (https://www.linkedin.com/in/brian-duran/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
 <details>
 <summary>
-  <a href="https://github.com/K-Kraken"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+  <a href="[https://github.com/K-Kraken](https://github.com/Nairb-code)"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
 
 
